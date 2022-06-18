@@ -1,18 +1,18 @@
-##Allocation
+## Allocation
 
 A Unified Framework for Marketing Budget Allocation.pdf
 
-##Attention Mechanism
+## Attention Mechanism
 
 Multi-Head Attention with Disagreement Regularization.pdf
 
 Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures .pdf
 
-##Auction
+## Auction
 
 Revenue Optimization in the Generalized Second-Price Auction.pdf
 
-##AutoML
+## AutoML
 
 Benchmarking Multimodal AutoML for Tabular Data with Text Fields.pdf
 
@@ -20,7 +20,7 @@ Deep Feature Synthesis- Towards Automating Data Science Endeavors.pdf
 
 [AutoCross] Automatic Feature Crossing for Tabular Data in Real-World Applications.pdf
 
-##Bidding
+## Bidding
 
 A Survey on Real Time Bidding Advertising.pdf
 
@@ -54,7 +54,7 @@ Real-Time Bidding by Reinforcement Learning in Display Advertising.pdf
 
 [USCB] A Unified Solution to Constrained Bidding in Online Display Advertising.pdf
 
-##CTR Prediction
+## CTR Prediction
 
 Attention Is All You Need.pdf
 
@@ -184,11 +184,11 @@ Layer Normalization.pdf
 
 [xDeepFM] xDeepFM - Combining Explicit and Implicit Feature Interactions for Recommender Systems (USTC 2018).pdf
 
-##Calibration
+## Calibration
 
 Field-aware Calibration- A Simple and Empirically Strong Method for Reliable Probabilistic Predictions.pdf
 
-##Causal Inference
+## Causal Inference
 
 A Large Scale Benchmark for Uplift Modeling.pdf
 
@@ -298,7 +298,7 @@ Uplift Modeling with Multiple Treatments and General Response Types.pdf
 
 deepiv_ppt.pdf
 
-##Debias
+## Debias
 
 Attribute-based Propensity for Unbiased Learning in Recommender Systems- Algorithm and Case Studies.pdf
 
@@ -316,17 +316,17 @@ Unbiased Learning-to-Rank with Biased Feedback.pdf
 
 [PAL] A Position-bias Aware Learning Framework for CTR Prediction in Live Recommender Systems.pdf
 
-##Delayed Feedback
+## Delayed Feedback
 
 Modeling Delayed Feedback in Display Advertising.pdf
 
 Real Negatives Matter- Continuous Training with Real Negatives for Delayed Feedback Modeling.pdf
 
-##Distill
+## Distill
 
 Privileged Features Distillation at Taobao Recommendations.pdf
 
-##Embedding
+## Embedding
 
 [Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018).pdf
 
@@ -350,13 +350,13 @@ Privileged Features Distillation at Taobao Recommendations.pdf
 
 [Word2Vec] Word2vec Parameter Learning Explained (UMich 2016).pdf
 
-##Exploration and Exploitation
+## Exploration and Exploitation
 
 A Practical Exploration System for Search Advertising.pdf
 
 Exploitation and Exploration in a Performance based Contextual Advertising System.pdf
 
-##Feature Engineering
+## Feature Engineering
 
 Binary Code based Hash Embedding for Web-scale Applications.pdf
 
@@ -370,7 +370,7 @@ Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based 
 
 [DHE] Learning to Embed Categorical Features without Embedding Tables for Recommendation.pdf
 
-##Graph Neural Network
+## Graph Neural Network
 
 A Comprehensive Survey on Graph Neural Networks.pdf
 
@@ -394,11 +394,11 @@ The graph neural network model.pdf
 
 [GraphSAGE] Inductive Representation Learning on Large Graphs.pdf
 
-##LTV
+## LTV
 
 A DEEP PROBABILISTIC MODEL FOR CUSTOMER LIFETIME VALUE PREDICTION.pdf
 
-##Meta Learning
+## Meta Learning
 
 A Survey of Deep Meta-Learning.pdf
 
@@ -410,7 +410,7 @@ Meta-Learning- A Survey.pdf
 
 Warm Up Cold-start Advertisements- Improving CTR Predictions via Learning to Learn ID Embeddings.pdf
 
-##Multi-Task
+## Multi-Task
 
 A Pareto-Efficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation.pdf
 
@@ -450,11 +450,11 @@ Recommending What Video to Watch Next- A Multitask Ranking System .pdf
 
 [Sluice networks] Learning what to share between loosely related tasks.pdf
 
-##Optimization
+## Optimization
 
 ADAM- A METHOD FOR STOCHASTIC OPTIMIZATION.pdf
 
-##Reinforcement Learning
+## Reinforcement Learning
 
 A Minimalist Approach to Offline Reinforcement Learning.pdf
 
@@ -502,11 +502,11 @@ RL_tutorial.pdf
 
 [TD3] Addressing Function Approximation Error in Actor-Critic Methods.pdf
 
-##Rerank
+## Rerank
 
 Revisit Recommender System in the Permutation Prospective.pdf
 
-##Reserve Price
+## Reserve Price
 
 Data-Driven Reserve Prices for Social Advertising Auctions at LinkedIn.pdf
 
@@ -514,7 +514,7 @@ Optimal Reserve Price for Online Ads Trading Based on Inventory Identification .
 
 slides-adkdd17-cui-data.pdf
 
-##Retrieval
+## Retrieval
 
 Deep Learning for Matching in Search and Recommendation.pdf
 
@@ -530,7 +530,7 @@ Towards a Better Tradeoff between Effectiveness and Efficiency in Pre-Ranking- A
 
 [TDM] Learning Tree-based Deep Model for Recommender Systems.pdf
 
-##Sequential
+## Sequential
 
 2018-Next Item Recommendation with Self-Attention.pdf
 
@@ -538,7 +538,7 @@ Efficient Transformers- A Survey.pdf
 
 Filter-enhanced MLP is All You Need for Sequential Recommendation.pdf
 
-##_CIKM2021
+## _CIKM2021
 
 Click-Through Rate Prediction with Multi-Modal Hypergraphs.pdf
 
@@ -548,17 +548,17 @@ Open Benchmarking for Click-Through Rate Prediction.pdf
 
 Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation .pdf
 
-##_KDD2021
+## _KDD2021
 
 Boosted Second Price Auctions- Revenue Optimization for Heterogeneous Bidders.pdf
 
-##_SIGIR2021
+## _SIGIR2021
 
 Looking at CTR Prediction Again- Is Attention All You Need?.pdf
 
 xLightFM- Extremely Memory-Efficient Factorization Machine.pdf
 
-##_System
+## _System
 
 An introduction to ROC analysis.pdf
 
@@ -566,13 +566,13 @@ Microsoft Recommenders Tools to Accelerate Developing Recommender Systems .pdf
 
 [AiAds] Automated and Intelligent Advertising System for Sponsored Search .pdf
 
-##_Theory
+## _Theory
 
 Dropout- A Simple Way to Prevent Neural Networks from Overfitting.pdf
 
 The Relationship Between Precision-Recall and ROC Curves.pdf
 
-##_WSDM2022
+## _WSDM2022
 
 Friend Story Ranking with Edge-Contextual Local Graph Convolutions .pdf
 

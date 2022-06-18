@@ -34,7 +34,7 @@ for name in sorted(os.listdir(dirname)):
     if name.startswith('.'): continue
     filename = os.path.join(dirname, name)
     if os.path.isdir(filename):
-        lines.append("##" + name)
+        lines.append("## " + name)
         line = gn(filename, "", dir_or_file="file")
         lines.append(line)
 out_file.write("\n\n".join(lines))
